@@ -10,3 +10,8 @@
 /Users/robin/RiderProjects/RiderPOC/RiderPOC.Tests/bin/Debug/RiderPOC.dll.mdb
 /Users/robin/RiderProjects/RiderPOC/RiderPOC.Tests/bin/Debug/RiderPOC.Common.dll
 /Users/robin/RiderProjects/RiderPOC/RiderPOC.Tests/bin/Debug/RiderPOC.Common.dll.mdb
+/Users/robin/RiderProjects/RiderPOC/RiderPOC.Tests/bin/Debug/RiderPOC.Repositories.dll
+/Users/robin/RiderProjects/RiderPOC/RiderPOC.Tests/bin/Debug/RiderPOC.Repositories.dll.mdb
+/Users/robin/RiderProjects/RiderPOC/RiderPOC.Tests/bin/Debug/MongoDB.Driver.dll
+/Users/robin/RiderProjects/RiderPOC/RiderPOC.Tests/bin/Debug/MongoDB.Bson.dll
+/Users/robin/RiderProjects/RiderPOC/RiderPOC.Tests/bin/Debug/MongoDB.Driver.Core.dll
