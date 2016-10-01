@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.0.0
+MinimumVisualStudioVersion = 10.0.0.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiderPOC", "RiderPOC/RiderPOC.csproj", "{309F223B-CC36-430D-8B54-00357AA1B7A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiderPOC.Tests", "RiderPOC.Tests\RiderPOC.Tests.csproj", "{FD21734A-8532-4B62-926B-5A0B78EA2A7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{309F223B-CC36-430D-8B54-00357AA1B7A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{309F223B-CC36-430D-8B54-00357AA1B7A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{309F223B-CC36-430D-8B54-00357AA1B7A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{309F223B-CC36-430D-8B54-00357AA1B7A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD21734A-8532-4B62-926B-5A0B78EA2A7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD21734A-8532-4B62-926B-5A0B78EA2A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD21734A-8532-4B62-926B-5A0B78EA2A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD21734A-8532-4B62-926B-5A0B78EA2A7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

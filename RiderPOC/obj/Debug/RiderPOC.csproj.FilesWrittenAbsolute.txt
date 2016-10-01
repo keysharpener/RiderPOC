@@ -1,0 +1,5 @@
+/Users/robin/RiderProjects/RiderPOC/RiderPOC/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/robin/RiderProjects/RiderPOC/RiderPOC/bin/Debug/RiderPOC.dll.mdb
+/Users/robin/RiderProjects/RiderPOC/RiderPOC/bin/Debug/RiderPOC.dll
+/Users/robin/RiderProjects/RiderPOC/RiderPOC/obj/Debug/RiderPOC.dll
+/Users/robin/RiderProjects/RiderPOC/RiderPOC/obj/Debug/RiderPOC.dll.mdb

@@ -1,0 +1,10 @@
+/Users/robin/RiderProjects/RiderPOC/RiderPOC.Tests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/robin/RiderProjects/RiderPOC/RiderPOC.Tests/bin/Debug/RiderPOC.Tests.dll.mdb
+/Users/robin/RiderProjects/RiderPOC/RiderPOC.Tests/bin/Debug/RiderPOC.Tests.dll
+/Users/robin/RiderProjects/RiderPOC/RiderPOC.Tests/obj/Debug/RiderPOC.Tests.dll
+/Users/robin/RiderProjects/RiderPOC/RiderPOC.Tests/obj/Debug/RiderPOC.Tests.dll.mdb
+/Users/robin/RiderProjects/RiderPOC/RiderPOC.Tests/bin/Debug/FakeItEasy.dll
+/Users/robin/RiderProjects/RiderPOC/RiderPOC.Tests/bin/Debug/nunit.framework.dll
+/Users/robin/RiderProjects/RiderPOC/RiderPOC.Tests/bin/Debug/NFluent.dll
+/Users/robin/RiderProjects/RiderPOC/RiderPOC.Tests/bin/Debug/RiderPOC.dll
+/Users/robin/RiderProjects/RiderPOC/RiderPOC.Tests/bin/Debug/RiderPOC.dll.mdb
