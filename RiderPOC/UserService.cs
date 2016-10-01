@@ -1,8 +1,11 @@
-﻿namespace RiderPOC
+﻿using RiderPOC.Common.ObjectModel;
+using RiderPOC.Common.Services;
+
+namespace RiderPOC
 {
-    public class UserService
+    public class UserService : IUserService
     {
-        public User GetUserById(int id)
+        public IUser GetUserById(int id)
         {
             return new User {FirstName = "Robin", LastName = "Francillon", Id = 10};
         }

@@ -54,6 +54,10 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\RiderPOC.Common\RiderPOC.Common.csproj">
+      <Project>{F0FE46C9-2CB9-435F-982D-BE0F71BAD981}</Project>
+      <Name>RiderPOC.Common</Name>
+    </ProjectReference>
     <ProjectReference Include="..\RiderPOC\RiderPOC.csproj">
       <Project>{309F223B-CC36-430D-8B54-00357AA1B7A0}</Project>
       <Name>RiderPOC</Name>

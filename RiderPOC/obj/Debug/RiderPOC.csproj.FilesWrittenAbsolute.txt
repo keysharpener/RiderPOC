@@ -3,3 +3,5 @@
 /Users/robin/RiderProjects/RiderPOC/RiderPOC/bin/Debug/RiderPOC.dll
 /Users/robin/RiderProjects/RiderPOC/RiderPOC/obj/Debug/RiderPOC.dll
 /Users/robin/RiderProjects/RiderPOC/RiderPOC/obj/Debug/RiderPOC.dll.mdb
+/Users/robin/RiderProjects/RiderPOC/RiderPOC/bin/Debug/RiderPOC.Common.dll
+/Users/robin/RiderProjects/RiderPOC/RiderPOC/bin/Debug/RiderPOC.Common.dll.mdb

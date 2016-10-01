@@ -8,3 +8,5 @@
 /Users/robin/RiderProjects/RiderPOC/RiderPOC.Tests/bin/Debug/NFluent.dll
 /Users/robin/RiderProjects/RiderPOC/RiderPOC.Tests/bin/Debug/RiderPOC.dll
 /Users/robin/RiderProjects/RiderPOC/RiderPOC.Tests/bin/Debug/RiderPOC.dll.mdb
+/Users/robin/RiderProjects/RiderPOC/RiderPOC.Tests/bin/Debug/RiderPOC.Common.dll
+/Users/robin/RiderProjects/RiderPOC/RiderPOC.Tests/bin/Debug/RiderPOC.Common.dll.mdb

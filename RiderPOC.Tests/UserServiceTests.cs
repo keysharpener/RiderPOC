@@ -1,5 +1,4 @@
-﻿using System;
-using NFluent;
+﻿using NFluent;
 using NUnit.Framework;
 
 namespace RiderPOC.Tests

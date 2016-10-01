@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 
-[assembly: AssemblyTitle("RiderPOC.Tests")]
+[assembly: AssemblyTitle("RiderPOC.Common")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("RiderPOC.Tests")]
+[assembly: AssemblyProduct("RiderPOC.Common")]
 [assembly: AssemblyCopyright("Copyright ©  116")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -22,7 +22,7 @@ using System.Runtime.InteropServices;
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
 
-[assembly: Guid("FD21734A-8532-4B62-926B-5A0B78EA2A7F")]
+[assembly: Guid("F0FE46C9-2CB9-435F-982D-BE0F71BAD981")]
 
 // Version information for an assembly consists of the following four values:
 //
